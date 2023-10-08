@@ -70,7 +70,7 @@
 			</tr>
 			<tr>
 				<th>성명</th>
-				<td><input type="text" name="v_name" size="20" autofocus> </td>
+				<td><input type="text" name="v_name" size="20" > </td>
 			</tr>
 			<tr>
 				<th>후보번호</th>
@@ -89,11 +89,11 @@
             </tr>
 			<tr>
 				<th>투표시간</th>
-				<td><input type="text" name="v_time" size="10" autofocus> 예) 0930 (09시30분) </td>
+				<td><input type="text" name="v_time" size="10" > 예) 0930 (09시30분) </td>
 			</tr>
 			<tr>
 				<th>투표장소</th>
-				<td><input type="text" name="v_area" size="20" autofocus> </td>
+				<td><input type="text" name="v_area" size="20" > </td>
 			</tr>
 			<tr>
 				<th>유권자확인</th>
